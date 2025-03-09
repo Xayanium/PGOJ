@@ -1,0 +1,9 @@
+[submodule "JudgeBox"]
+	path = JudgeBox
+	url = git@github.com:Xayanium/JudgeBox.git
+[submodule "PGOJ-backend"]
+	path = PGOJ-backend
+	url = git@github.com:yixianOu/PGOJ.git
+[submodule "PGOJ-frontend"]
+	path = PGOJ-frontend
+	url = git@github.com:Xayanium/PGOJ_frontend.git
